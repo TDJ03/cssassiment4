@@ -1,0 +1,49 @@
+*{
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 20px;
+} 
+ div{
+    background-color: rgb(0, 153, 255);
+    font-family: sans-serif;
+    width: 20%;
+    float: left;
+    height:550px;
+    border-style: solid;
+    border-color: rgb(0, 162, 255);
+}
+.head{
+    color: red;
+}
+.head2{
+    color: black;
+}
+.tr1{
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+}
+button{
+    background-color: green;
+}
+.button2{
+    background-color: red;
+    border-color: red;
+}
+table,tr td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 70%;
+    height: 300px;
+    text-align: center;
+    margin-left: 310px;
+    margin-top:90px ;
+    
+}
+h1{
+    color: blue;
+}
